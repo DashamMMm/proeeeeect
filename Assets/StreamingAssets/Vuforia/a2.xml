@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cube22" size="1.000000 1.980707" />
+    <ImageTarget name="grusha3" size="1.000000 1.000000" />
+    <ImageTarget name="grusha2" size="1.000000 1.221374" />
+    <ImageTarget name="red-b2" size="1.000000 0.666667" />
+    <ImageTarget name="chair" size="1.000000 1.153697" />
+    <ImageTarget name="big-faeforvaza" size="1.000000 1.000000" />
+    <ImageTarget name="zel-vaza-tikva" size="1.000000 1.333333" />
+    <ImageTarget name="vaza-japen-treshins" size="1.000000 1.108564" />
+    <ImageTarget name="strange-box" size="1.000000 1.774834" />
+    <ImageTarget name="vaza-colorful-imal" size="1.000000 1.687345" />
+    <ImageTarget name="tarelka-moushens" size="1.000000 0.763052" />
+    <ImageTarget name="vaza-warm" size="1.000000 1.193013" />
+    <ImageTarget name="green-cube-vaza" size="1.000000 1.362776" />
+    <ImageTarget name="iki-chel" size="1.000000 1.551244" />
+    <ImageTarget name="box-red" size="1.000000 0.748170" />
+    <ImageTarget name="vcube-vaza-flower" size="1.000000 2.491679" />
+  </Tracking>
+</QCARConfig>
